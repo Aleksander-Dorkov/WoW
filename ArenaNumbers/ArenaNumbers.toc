@@ -1,0 +1,6 @@
+## Interface: 80200
+## Title: Arena Nameplate Numbers BFA
+## Notes: Shows Arena 123 over Nameplates
+#DefaultState: enabled
+
+ArenaNumbers.lua
