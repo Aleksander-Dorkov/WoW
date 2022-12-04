@@ -30,6 +30,7 @@ local f = CreateFrame("frame")
     f:RegisterEvent("PLAYER_LOGIN")
     f:SetScript("OnEvent",function(self)
     DefaultCompactUnitFrameOptions.displayRoleIcon = false
+    DefaultCompactUnitFrameOptions.displayName = false
 end)
 -- frame.name:SetText(GetUnitName(frame.unit))
 -- 1,327 702
